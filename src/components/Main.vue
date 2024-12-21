@@ -15,15 +15,12 @@ export default {
   components: {
     Title,
     Abstract,
-    BibTeX,
     Carousel,
-    Video,
     ImageSlider,
     Echart,
     Collapse,
     Table,
     SeletionForComparison,
-    Comment,
   }
 }
 </script>
@@ -31,14 +28,11 @@ export default {
 <template>
   <Title/>
   <Carousel/>
-  <Video/>
   <Abstract/>
   <Echart/>
   <Table/>
   <Collapse/>
   <SeletionForComparison/>
   <ImageSlider/>
-  <BibTeX/>
-  <Comment/>
 
 </template>
