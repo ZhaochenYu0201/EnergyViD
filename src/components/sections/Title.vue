@@ -78,7 +78,7 @@ const addresses = [
   {
     address_flag: "2",
     name: "Standford University",
-    icon: "./icon/standford.jpg",
+    icon: "./icon/standford.wbep",
     homepage: "https://www.bilibili.com/video/BV178411Y7QB"
   },
 ]
