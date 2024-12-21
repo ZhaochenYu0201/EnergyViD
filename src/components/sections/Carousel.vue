@@ -20,7 +20,7 @@ export default {
       ],
       // 选择要轮播的照片
       image_paths: [
-        "./carousel/casr-5.gif",
+        "./carousel/case-5.gif",
         "./carousel/case-17.gif",
         "./carousel/case-45.gif",
         "./carousel/case-46.gif",
