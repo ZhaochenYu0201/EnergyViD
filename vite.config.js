@@ -8,7 +8,7 @@ export default defineConfig({
   plugins: [
     vue(),
   ],
-  base:'/academic-project-page-template-vue',
+  base:'/EnergyViD',
   resolve: {
     alias: {
       '@': fileURLToPath(new URL('./src', import.meta.url))
