@@ -33,7 +33,7 @@ const authors = [
     name: "Yikai Zhao",
     icon: "./icon/yikai.jpg",
     homepage: "https://www.bilibili.com/video/BV1jv4y1P7Bb",
-    address_flag: "2"
+    address_flag: "1"
   },
   {
     name: "Zhaochen Yu",
