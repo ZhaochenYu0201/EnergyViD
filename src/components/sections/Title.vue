@@ -25,43 +25,43 @@ const btn_color = '#444444'
 const authors = [
   {
     name: "Ling Yang",
-    icon: "./icon/junyaohu.jpg",
+    icon: "./icon/ling_yang.jpg",
     homepage: "https://junyaohu.github.io/",
     address_flag: "1"
   },
   {
     name: "Yikai Zhao",
-    icon: "./icon/anya.jpg",
+    icon: "./icon/yikai.jpg",
     homepage: "https://www.bilibili.com/video/BV1jv4y1P7Bb",
     address_flag: "2"
   },
   {
     name: "Zhaochen Yu",
-    icon: "./icon/capoo.webp",
+    icon: "./icon/zhaochen.jpg",
     homepage: "https://zh.moegirl.org.cn/%E7%8C%AB%E7%8C%AB%E8%99%AB%E5%92%96%E6%B3%A2",
     address_flag: "1"
   },
     {
     name: "Bohan Zeng",
-    icon: "./icon/capoo.webp",
+    icon: "./icon/bohan_zeng.jpg",
     homepage: "https://zh.moegirl.org.cn/%E7%8C%AB%E7%8C%AB%E8%99%AB%E5%92%96%E6%B3%A2",
     address_flag: "1"
   },
     {
     name: "Minkai Xu",
-    icon: "./icon/capoo.webp",
+    icon: "./icon/minkai_xu.jpg",
     homepage: "https://zh.moegirl.org.cn/%E7%8C%AB%E7%8C%AB%E8%99%AB%E5%92%96%E6%B3%A2",
     address_flag: "2"
   },
     {
     name: "Shenda Hong",
-    icon: "./icon/capoo.webp",
+    icon: "./icon/shenda_hong.jpg",
     homepage: "https://zh.moegirl.org.cn/%E7%8C%AB%E7%8C%AB%E8%99%AB%E5%92%96%E6%B3%A2",
     address_flag: "1"
   },
       {
     name: "Bin Cui",
-    icon: "./icon/capoo.webp",
+    icon: "./icon/bin_cui.jpg",
     homepage: "https://zh.moegirl.org.cn/%E7%8C%AB%E7%8C%AB%E8%99%AB%E5%92%96%E6%B3%A2",
     address_flag: "1"
   },
