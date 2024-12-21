@@ -26,43 +26,43 @@ const authors = [
   {
     name: "Ling Yang",
     icon: "./icon/ling_yang.jpg",
-    homepage: "https://junyaohu.github.io/",
+    homepage: "https://yangling0818.github.io/",
     address_flag: "1"
   },
   {
     name: "Yikai Zhao",
     icon: "./icon/yikai.jpg",
-    homepage: "https://www.bilibili.com/video/BV1jv4y1P7Bb",
+    homepage: "https://pkuzhao.net/",
     address_flag: "1"
   },
   {
     name: "Zhaochen Yu",
     icon: "./icon/zhaochen.jpg",
-    homepage: "https://zh.moegirl.org.cn/%E7%8C%AB%E7%8C%AB%E8%99%AB%E5%92%96%E6%B3%A2",
+    homepage: "https://zhaochenyu0201.github.io/",
     address_flag: "1"
   },
     {
     name: "Bohan Zeng",
     icon: "./icon/bohan_zeng.jpg",
-    homepage: "https://zh.moegirl.org.cn/%E7%8C%AB%E7%8C%AB%E8%99%AB%E5%92%96%E6%B3%A2",
+    homepage: "https://scholar.google.com/citations?user=MHo_d3YAAAAJ&hl=en",
     address_flag: "1"
   },
     {
     name: "Minkai Xu",
     icon: "./icon/minkai_xu.jpg",
-    homepage: "https://zh.moegirl.org.cn/%E7%8C%AB%E7%8C%AB%E8%99%AB%E5%92%96%E6%B3%A2",
+    homepage: "https://minkaixu.com/",
     address_flag: "2"
   },
     {
     name: "Shenda Hong",
     icon: "./icon/shenda_hong.jpg",
-    homepage: "https://zh.moegirl.org.cn/%E7%8C%AB%E7%8C%AB%E8%99%AB%E5%92%96%E6%B3%A2",
+    homepage: "https://hsd1503.github.io/",
     address_flag: "1"
   },
       {
     name: "Bin Cui",
     icon: "./icon/bin_cui.jpg",
-    homepage: "https://zh.moegirl.org.cn/%E7%8C%AB%E7%8C%AB%E8%99%AB%E5%92%96%E6%B3%A2",
+    homepage: "https://cuibinpku.github.io/",
     address_flag: "1"
   },
 ]
@@ -73,13 +73,13 @@ const addresses = [
     address_flag: "1",
     name: "Peking University",
     icon: "./icon/pku.jpg",
-    homepage: "https://github.com/hmuniversity"
+    homepage: "https://www.pku.edu.cn/"
   },
   {
     address_flag: "2",
     name: "Standford University",
-    icon: "./icon/standford.wbep",
-    homepage: "https://www.bilibili.com/video/BV178411Y7QB"
+    icon: "./icon/standford.jpg",
+    homepage: "https://www.stanford.edu/"
   },
 ]
 
