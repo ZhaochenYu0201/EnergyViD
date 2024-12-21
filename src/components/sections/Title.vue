@@ -7,7 +7,7 @@ import { Document, Files, MagicStick, Picture, DataAnalysis, Film } from '@eleme
 const logo = './logo.png'
 
 // 标题
-const title = 'Academic Project Page Template'
+const title = 'Spatio-Temporal Energy-Guided Diffusion Model for Zero-Shot Video Synthesis and Editing'
 
 // 标题颜色
 const title_color = '#000000'
@@ -24,22 +24,46 @@ const btn_color = '#444444'
 // 作者清单（包含作者姓名、头像、主页、地址序号）
 const authors = [
   {
-    name: "Your Name",
+    name: "Ling Yang",
     icon: "./icon/junyaohu.jpg",
     homepage: "https://junyaohu.github.io/",
-    address_flag: "1,#"
+    address_flag: "1"
   },
   {
-    name: "Anya Forger",
+    name: "Yikai Zhao",
     icon: "./icon/anya.jpg",
     homepage: "https://www.bilibili.com/video/BV1jv4y1P7Bb",
-    address_flag: "2,#"
+    address_flag: "2"
   },
   {
-    name: "BugCat Capoo",
+    name: "Zhaochen Yu",
     icon: "./icon/capoo.webp",
     homepage: "https://zh.moegirl.org.cn/%E7%8C%AB%E7%8C%AB%E8%99%AB%E5%92%96%E6%B3%A2",
-    address_flag: "1,*"
+    address_flag: "1"
+  },
+    {
+    name: "Bohan Zeng",
+    icon: "./icon/capoo.webp",
+    homepage: "https://zh.moegirl.org.cn/%E7%8C%AB%E7%8C%AB%E8%99%AB%E5%92%96%E6%B3%A2",
+    address_flag: "1"
+  },
+    {
+    name: "Minkai Xu",
+    icon: "./icon/capoo.webp",
+    homepage: "https://zh.moegirl.org.cn/%E7%8C%AB%E7%8C%AB%E8%99%AB%E5%92%96%E6%B3%A2",
+    address_flag: "2"
+  },
+    {
+    name: "Shenda Hong",
+    icon: "./icon/capoo.webp",
+    homepage: "https://zh.moegirl.org.cn/%E7%8C%AB%E7%8C%AB%E8%99%AB%E5%92%96%E6%B3%A2",
+    address_flag: "1"
+  },
+      {
+    name: "Bin Cui",
+    icon: "./icon/capoo.webp",
+    homepage: "https://zh.moegirl.org.cn/%E7%8C%AB%E7%8C%AB%E8%99%AB%E5%92%96%E6%B3%A2",
+    address_flag: "1"
   },
 ]
 
@@ -47,14 +71,14 @@ const authors = [
 const addresses = [
   {
     address_flag: "1",
-    name: "Home University",
-    icon: "./icon/home.png",
+    name: "Peking University",
+    icon: "./icon/pku.jpg",
     homepage: "https://github.com/hmuniversity"
   },
   {
     address_flag: "2",
-    name: "IKUN University",
-    icon: "./icon/ikun.avif",
+    name: "Standford University",
+    icon: "./icon/standford.jpg",
     homepage: "https://www.bilibili.com/video/BV178411Y7QB"
   },
 ]
