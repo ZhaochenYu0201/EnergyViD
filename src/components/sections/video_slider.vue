@@ -19,11 +19,11 @@ export default {
   name: 'VideoSlider',
   data() {
     return {
-      // 视频数组，包含三个视频的路径
+      // 视频数组，包含三个视频的相对路径
       videos: [
-        require('@/video_slider/case1.mp4'),
-        require('@/video_slider/case2.mp4'),
-        require('@/video_slider/case3.mp4'),
+        '/video_slider/case1.mp4',
+        '/video_slider/case2.mp4',
+        '/video_slider/case3.mp4',
       ],
       // 当前视频的索引
       currentIndex: 0,

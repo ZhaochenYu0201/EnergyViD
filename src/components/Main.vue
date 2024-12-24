@@ -20,7 +20,6 @@ export default {
     Table,
     VideoSlider,  // 注册新组件
     SeletionForComparison,
-    ImageSlider
   }
 }
 </script>
