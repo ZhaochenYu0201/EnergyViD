@@ -7,7 +7,7 @@ import Echart from './sections/Echart.vue'
 import Table from './sections/Table.vue'
 import Collapse from './sections/Collapse.vue'
 import SeletionForComparison from './sections/SeletionForComparison.vue'
-
+import VideoSlider from './sections/video_slider.vue'
 
 export default {
   components: {
@@ -18,8 +18,9 @@ export default {
     Echart,
     Collapse,
     Table,
+    VideoSlider,  // 注册新组件
     SeletionForComparison,
-
+    ImageSlider
   }
 }
 </script>
