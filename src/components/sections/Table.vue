@@ -3,28 +3,29 @@
 // 表格数据
 const tableData = [
 {
-    model: 'Model A',
-    params: '10 B',
-    value_a: '123',
-    value_b: '321',
+    model: 'Text2Video-Zero',
+    Memory Usage: '6.2 GB',
+    Inference Time: '30s',
 },
 {
-    model: 'Model B',
-    params: '30 B',
-    value_a: '456',
-    value_b: '654',
+    model: 'ControlVideo',
+    Memory Usage: '6.8 GB',
+    IInference Time: '3 min',
 },
 {
-    model: 'Model C',
-    params: '20 B',
-    value_a: '789',
-    value_b: '987',
+    model: 'ControlNeXt + SVD',
+    Memory Usage: '30 GB',
+    Inference Time: '20 min',
 },
 {
-    model: 'Model D',
-    params: '5 B',
-    value_a: '100',
-    value_b: '200',
+    model: 'Ours + Text2Video-Zero',
+    Memory Usage: '8.7 GB',
+    Inference Time: '2 min',
+},
+{
+    model: 'Ours + SVD',
+    Memory Usage: '12 GB',
+    Inference Time: '8 min',
 },
 ]
 </script>
@@ -34,7 +35,7 @@ const tableData = [
         <el-divider />
 
         <el-row justify="center">
-            <h1 class="section-title">More Results</h1>
+            <h1 class="section-title">Analysis of Memory Usage and Inference Time</h1>
         </el-row>
         
         <!-- 数据表格 -->
@@ -63,17 +64,6 @@ const tableData = [
                         </el-table>
                     </el-tab-pane>
 
-                    <el-tab-pane label="Method B" name="Method B">
-                        Method B
-                    </el-tab-pane>
-
-                    <el-tab-pane label="Method C" name="Method C">
-                        Method C
-                    </el-tab-pane>
-
-                    <el-tab-pane label="Method D" name="Method D">
-                        Method D
-                    </el-tab-pane>
                     </el-tabs>
 
                 </el-card>

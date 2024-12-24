@@ -103,7 +103,7 @@ const addresses = [
     <!-- 最新消息提示 -->
     <el-row justify="center">
       <el-col :span="24">
-        <el-alert title="🔥 This template is still under development." type="success" />
+        <el-alert title="🔥 We will continue to optimize our EnergyVid." type="success" />
       </el-col>
     </el-row>
 
