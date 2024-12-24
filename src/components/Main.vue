@@ -7,7 +7,7 @@ import Echart from './sections/Echart.vue'
 import Table from './sections/Table.vue'
 import Collapse from './sections/Collapse.vue'
 import SeletionForComparison from './sections/SeletionForComparison.vue'
-import VideoSlider from './sections/VideoSlider.vue'  // 引入新组件
+import VideoSlider from './sections/video_slider.vue'  // 引入新组件
 
 export default {
   components: {
