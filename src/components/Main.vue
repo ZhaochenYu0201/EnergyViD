@@ -7,7 +7,7 @@ import Echart from './sections/Echart.vue'
 import Table from './sections/Table.vue'
 import Collapse from './sections/Collapse.vue'
 import SeletionForComparison from './sections/SeletionForComparison.vue'
-import ComparisonBar from './sections/ComparisonBar.vue'  // 引入新组件
+import VideoSlider from './sections/VideoSlider.vue'  // 引入新组件
 
 export default {
   components: {
@@ -19,7 +19,7 @@ export default {
     Collapse,
     Table,
     SeletionForComparison,
-    ComparisonBar,  // 注册新组件
+    VideoSlider,  // 注册新组件
   }
 }
 </script>
@@ -31,7 +31,7 @@ export default {
   <Echart/>
   <Table/>
   <Collapse/>
-  <ComparisonBar/>  <!-- 添加新组件到模板 -->
+  <VideoSlider/>  <!-- 使用新组件 -->
   <SeletionForComparison/>
   <ImageSlider/>
 </template>
