@@ -20,12 +20,12 @@ export default {
       ],
       // 选择要轮播的照片
       image_paths: [
-        "./carousel/case-5.gif",
-        "./carousel/case-17.gif",
-        "./carousel/case-45.gif",
-        "./carousel/case-46.gif",
-        "./carousel/case-61.gif",
-        "./carousel/case-47.gif",
+        "./carousel/girl.gif",
+        "./carousel/gorilla.gif",
+        "./carousel/mai.gif",
+        "./carousel/penguin.gif",
+        "./carousel/rabbit.gif",
+        "./carousel/tiger.gif",
       ],
     }
   }
