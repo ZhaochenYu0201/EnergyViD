@@ -3,29 +3,29 @@
 // 表格数据
 const tableData = [
 {
-    model: 'Text2Video-Zero',
-    Memory Usage: '6.2 GB',
-    Inference Time: '30s',
+    Method: 'Text2Video-Zero',
+    Memory: '6.2 GB',
+    Time: '30s',
 },
 {
-    model: 'ControlVideo',
-    Memory Usage: '6.8 GB',
-    IInference Time: '3 min',
+    Method: 'ControlVideo',
+    Memory '6.8 GB',
+    Time: '3 min',
 },
 {
-    model: 'ControlNeXt + SVD',
-    Memory Usage: '30 GB',
-    Inference Time: '20 min',
+    Method: 'ControlNeXt + SVD',
+    Memory: '30 GB',
+    Time: '20 min',
 },
 {
-    model: 'Ours + Text2Video-Zero',
-    Memory Usage: '8.7 GB',
-    Inference Time: '2 min',
+    Method: 'Ours + Text2Video-Zero',
+    Memory: '8.7 GB',
+    Time: '2 min',
 },
 {
-    model: 'Ours + SVD',
-    Memory Usage: '12 GB',
-    Inference Time: '8 min',
+    Method: 'Ours + SVD',
+    Memory: '12 GB',
+    Time: '8 min',
 },
 ]
 </script>
